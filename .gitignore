@@ -1,0 +1,8 @@
+
+# Tableau temp/recovery
+~*.twb
+~*.twbr
+*.twbr
+*.tfl
+*.tlog
+*.tmp
